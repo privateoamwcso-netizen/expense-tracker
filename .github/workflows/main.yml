@@ -1,0 +1,5 @@
+git init
+git add index.html
+git commit -m "feat: init expense tracker on GitHub Pages"
+git remote add origin https://github.com/privateoamwcso-netizen/expense-tracker.git
+git push -u origin main
